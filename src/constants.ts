@@ -1,0 +1,1 @@
+export const IMG_URL: string = 'https://image.tmdb.org/t/p/w500';
